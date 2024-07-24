@@ -1,5 +1,7 @@
-public class Solution {
-    public string LongestCommonPrefix(string[] strs) {
+public class Solution 
+{
+    public string LongestCommonPrefix(string[] strs) 
+    {
         if (strs.Length == 1) return strs[0];
 
         string pre = "";
