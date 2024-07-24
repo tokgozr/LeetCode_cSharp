@@ -3,11 +3,11 @@ public class Solution {
 
         var chars = s.ToCharArray();
         var result = 0;
-        var currentValue = 0;
+        var currValue = 0;
         for(var i = 0; i < chars.Length - 1; i++)
         {
-            currentValue = RomanNumerals(chars[i]);
-            result += (RomanNumerals(chars[i+1]) > currentValue ? -1 : 1) * currentValue;
+            currValue = RomanNumerals(chars[i]);
+            result += (RomanNumerals(chars[i+1]) > currValue ? -1 : 1) * currValue;
         }
         
         return result +  RomanNumerals(chars[chars.Length - 1]);
