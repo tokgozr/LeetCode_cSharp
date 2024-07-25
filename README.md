@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/tokgozr/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tokgozr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/tokgozr/LeetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tokgozr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tokgozr/LeetCode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/tokgozr/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
