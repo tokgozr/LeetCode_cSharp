@@ -20,6 +20,7 @@
 | [0012-integer-to-roman](https://github.com/tokgozr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tokgozr/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/tokgozr/LeetCode/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tokgozr/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
