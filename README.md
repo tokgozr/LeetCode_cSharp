@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/tokgozr/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/tokgozr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tokgozr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tokgozr/LeetCode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/tokgozr/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
