@@ -41,6 +41,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tokgozr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/tokgozr/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/tokgozr/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tokgozr/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/tokgozr/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tokgozr/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -53,6 +54,7 @@
 | [0020-valid-parentheses](https://github.com/tokgozr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+| [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tokgozr/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
