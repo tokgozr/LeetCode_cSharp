@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tokgozr/LeetCode/tree/master/0001-two-sum) |
+| [1395-minimum-time-visiting-all-points](https://github.com/tokgozr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/tokgozr/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tokgozr/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tokgozr/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -27,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/tokgozr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+| [1395-minimum-time-visiting-all-points](https://github.com/tokgozr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tokgozr/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tokgozr/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/tokgozr/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tokgozr/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/tokgozr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
