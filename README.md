@@ -36,6 +36,7 @@
 | [2383-add-two-integers](https://github.com/tokgozr/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tokgozr/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/tokgozr/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/tokgozr/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/tokgozr/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tokgozr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/tokgozr/LeetCode/tree/master/2752-sum-multiples) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/tokgozr/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/tokgozr/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
