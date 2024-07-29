@@ -13,6 +13,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tokgozr/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tokgozr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tokgozr/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/tokgozr/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tokgozr/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/tokgozr/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tokgozr/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/tokgozr/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
