@@ -39,6 +39,7 @@
 | [1635-number-of-good-pairs](https://github.com/tokgozr/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tokgozr/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/tokgozr/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/tokgozr/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tokgozr/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tokgozr/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/tokgozr/LeetCode/tree/master/2383-add-two-integers) |
@@ -64,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/tokgozr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/tokgozr/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
 |  |
