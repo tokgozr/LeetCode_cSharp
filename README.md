@@ -43,6 +43,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tokgozr/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/tokgozr/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tokgozr/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/tokgozr/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/tokgozr/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/tokgozr/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/tokgozr/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -119,10 +120,12 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tokgozr/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2507-number-of-common-factors](https://github.com/tokgozr/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/tokgozr/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/tokgozr/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
