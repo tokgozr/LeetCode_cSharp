@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/tokgozr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/tokgozr/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/tokgozr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tokgozr/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tokgozr/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
