@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tokgozr/LeetCode/tree/master/0001-two-sum) |
 | [1395-minimum-time-visiting-all-points](https://github.com/tokgozr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1580-shuffle-the-array](https://github.com/tokgozr/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tokgozr/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/tokgozr/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tokgozr/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
