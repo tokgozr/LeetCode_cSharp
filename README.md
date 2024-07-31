@@ -67,6 +67,7 @@
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tokgozr/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3379-score-of-a-string](https://github.com/tokgozr/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
