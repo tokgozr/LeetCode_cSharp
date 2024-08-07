@@ -13,6 +13,7 @@
 | [1791-richest-customer-wealth](https://github.com/tokgozr/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tokgozr/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/tokgozr/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/tokgozr/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tokgozr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tokgozr/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/tokgozr/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -69,6 +70,7 @@
 | [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/tokgozr/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tokgozr/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/tokgozr/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3055-maximum-odd-binary-number](https://github.com/tokgozr/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/tokgozr/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
