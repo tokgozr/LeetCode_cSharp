@@ -12,6 +12,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/tokgozr/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/tokgozr/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tokgozr/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/tokgozr/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tokgozr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tokgozr/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/tokgozr/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -23,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/tokgozr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/tokgozr/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/tokgozr/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/tokgozr/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/tokgozr/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/tokgozr/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tokgozr/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/tokgozr/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Geometry
 |  |
 | ------- |
